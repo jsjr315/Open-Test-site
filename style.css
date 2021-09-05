@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+}
+
+
+
+.hero-image {
+  background-image: url("https://raw.githubusercontent.com/jsjr315/Open-Test-site/main/Beulah.jpg");
+  background-color: #cccccc;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  float: none;
+}
+
+.body {
+  margin: 10px;
+  text-align: ;
+}
+
+.p1821 {
+  width: 300px;
+  margin: 0 30px;
+  text-align: left;
+
+}
+
+.words-heading {
+  font-size: 3rem;
+  position: relative;
+  top: 60px;
+  margin-right: 50px;
+  width: 50%;
+  display: inline-block;
+}
+
+hr {
+  width: 30%;
+  border-width: 0 0 20px 0;
+  border-color: #b5edff;
+  background-color: none;
+  border-style: dotted;
+
+}
